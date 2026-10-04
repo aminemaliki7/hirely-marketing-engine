@@ -1,0 +1,28 @@
+{
+  "name": "hirely-video-engine",
+  "version": "0.1.0",
+  "description": "Template-based short video renderer for the Hirely Marketing Engine",
+  "scripts": {
+    "dev": "remotion studio",
+    "studio": "remotion studio",
+    "render": "remotion render Short",
+    "render:example": "remotion render Short out/dont-apply.mp4 --props=./examples/dont-apply.json",
+    "still": "remotion still Short out/preview.png --frame=20",
+    "generate:sfx": "node scripts/generate-sfx.mjs",
+    "upgrade": "remotion upgrade"
+  },
+  "private": true,
+  "dependencies": {
+    "@remotion/cli": "4.0.532",
+    "@remotion/google-fonts": "4.0.532",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "remotion": "4.0.532",
+    "zod": "4.5.4"
+  },
+  "devDependencies": {
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "typescript": "^7.0.2"
+  }
+}

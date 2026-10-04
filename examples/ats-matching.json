@@ -1,0 +1,42 @@
+{
+  "template": "AIExplainer",
+  "title": "Why ATS matching matters",
+  "duration": 20,
+  "scenes": [
+    {
+      "duration": 3,
+      "role": "hook",
+      "text": "Your dream job might ignore your CV.",
+      "animation": "pop",
+      "sound": "impact"
+    },
+    {
+      "duration": 4,
+      "role": "problem",
+      "text": "ATS software scans for skill matches first.",
+      "animation": "slide_up",
+      "sound": "whoosh"
+    },
+    {
+      "duration": 5,
+      "role": "insight",
+      "text": "A 40% match looks qualified to you.\nIt looks invisible to the system.",
+      "animation": "typewriter"
+    },
+    {
+      "duration": 4,
+      "role": "example",
+      "text": "Check the match before you apply.",
+      "animation": "zoom",
+      "sound": "click"
+    },
+    {
+      "duration": 4,
+      "role": "cta",
+      "text": "See your match on Hirely",
+      "subtext": "Built for job seekers in Morocco",
+      "animation": "fade",
+      "sound": "notification"
+    }
+  ]
+}

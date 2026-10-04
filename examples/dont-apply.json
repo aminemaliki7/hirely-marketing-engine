@@ -1,0 +1,34 @@
+{
+  "template": "CareerTip",
+  "title": "Don't apply to every job",
+  "duration": 18,
+  "scenes": [
+    {
+      "duration": 3,
+      "text": "STOP applying to every job.",
+      "animation": "pop",
+      "sound": "impact"
+    },
+    {
+      "duration": 4,
+      "text": "Your CV can be a strong match for one job...",
+      "animation": "slide_up"
+    },
+    {
+      "duration": 4,
+      "text": "...and a terrible match for another.",
+      "animation": "slide_up",
+      "sound": "whoosh"
+    },
+    {
+      "duration": 4,
+      "text": "Check the match before you apply.",
+      "animation": "zoom"
+    },
+    {
+      "duration": 3,
+      "text": "Hirely.ma",
+      "animation": "fade"
+    }
+  ]
+}
